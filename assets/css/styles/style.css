@@ -265,6 +265,8 @@ input[type=submit] {
 
     .main-section {
       width: 100%;
+      margin: auto;
+      float: none;
     }
 
      .auth-image {
